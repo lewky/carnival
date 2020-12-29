@@ -97,8 +97,8 @@ function le() {
     }
     var minHeight = 3;     //最小高度
     var minWidth = 3;     //最小宽度
-    var maxHeight = 800;    //最大高度
-    var maxWidth = 1400;    //最大宽度
+    var maxHeight = 800 * 3;    //最大高度
+    var maxWidth = 1400 * 3;    //最大宽度
     var s = "mw-harlem_shake_me";
     var o = "im_first";
     var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
@@ -143,6 +143,9 @@ function le() {
     });
     
 }
-var bgmSrc = "https://nd002723.github.io/carnival/audio/Martin%20Jensen%20-%20Fox%20(Loop%20Remix).mp3";
-var cssHref = "https://nd002723.github.io/carnival/css/high.css";     //设置页面动效css地址
+//var bgmSrc = "https://lewky.coding.me/carnival/audio/Martin%20Jensen%20-%20Fox%20(Loop%20Remix).mp3";
+//var bgmSrc = "https://lewky.coding.me/carnival/audio/zhexue_min.mp3";
+var bgmSrc = "https://cdn.jsdelivr.net/gh/lewky/carnival@master/audio/zhexue_min.mp3";
+//var cssHref = "https://lewky.coding.me/carnival/css/high.css";     //设置页面动效css地址
+var cssHref = "https://cdn.jsdelivr.net/gh/lewky/carnival@master/carnival/css/high.css";     //设置页面动效css地址
 
