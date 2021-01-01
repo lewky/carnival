@@ -8,6 +8,8 @@ forked from https://github.com/nd002723/carnival
 
 本项目修改了bgm，压缩了音乐文件大小，修改了代码里引入的文件路径，改用cdn来提高国内访问速度。
 
+这是一个使用了该js的样例页面：https://lewky.cn/high
+
 ## 使用方法
 
 在网站头部引用`carnival.js`：
