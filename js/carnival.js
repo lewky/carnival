@@ -147,5 +147,5 @@ function le() {
 //var bgmSrc = "https://lewky.coding.me/carnival/audio/zhexue_min.mp3";
 var bgmSrc = "https://cdn.jsdelivr.net/gh/lewky/carnival@master/audio/zhexue_min.mp3";
 //var cssHref = "https://lewky.coding.me/carnival/css/high.css";     //设置页面动效css地址
-var cssHref = "https://cdn.jsdelivr.net/gh/lewky/carnival@master/carnival/css/high.css";     //设置页面动效css地址
+var cssHref = "https://cdn.jsdelivr.net/gh/lewky/carnival@master/css/high.css";     //设置页面动效css地址
 
